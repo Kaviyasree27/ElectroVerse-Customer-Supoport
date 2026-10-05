@@ -201,6 +201,23 @@ The frontend will run at `http://127.0.0.1:5173`.
 - **Deterministic Triage**: Temperature 0.0 prevents hallucinations during intent classification and safety checks.
 
 ---
+Login Page:
+<img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/724e521d-799f-42a0-8a15-7c84a17a7f44" />
+
+ShopperBot:
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/705bb271-0133-4a98-9a3f-8115576b1459" />
+
+SupportBot:
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/aabc7ed5-0cbc-45d2-ab76-08a37807cce0" />
+
+TriageBot:
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/04ee2758-d63f-484d-8ee2-f1872901d665" />
+
+<img width="2560" height="1210" alt="image" src="https://github.com/user-attachments/assets/8a9dc19b-4795-4a27-8d50-8f8eb9efe11e" />
+
+
+
+
 
 ## License
 
